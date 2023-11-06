@@ -1,5 +1,5 @@
 # EmailAutomation
-<h1>Hello Everbody!</h1>
+<h2>Hello Everbody!</h2>
 <p>It's a python script to send emails to a list of contacts automatized.</p>
 
 <p>For the use, insert your correct information!>/p> 
